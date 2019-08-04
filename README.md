@@ -1,8 +1,8 @@
 # python-script-ssh-auto
 python-script-ssh-auto
-############################################
+
 script support for python 2
-############################################
+
 install
 
 1. open command line 
@@ -14,6 +14,6 @@ install
   
 4.save file 
 5.run script in command (python ssh_auto.py)
-###########################################
+
 Thank for watch !!!
-###########################################
+
